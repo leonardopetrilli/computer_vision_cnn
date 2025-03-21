@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-1.x-orange) ![License](https://img.shields.io/badge/License-MIT-yellow)  
 
 ## 📋 Overview  
-This project develops a product classification system for grocery store shelves using CNNs, aiding customer assistance and visually impaired individuals.  
+This project develops a product classification system for grocery store shelves using CNNs, helping customer assistance and visually impaired individuals.  
 
 ## 🎯 Objectives  
 - **Single Product Classification**: Identify products from images.  
